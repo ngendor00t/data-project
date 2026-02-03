@@ -34,7 +34,20 @@ The dataset contains customer sales behaviour data including:
 - promo codes 
 
 # key insisghts
-Clean dataset with no missing values
+analysis of purchase patterns reveals distinct behavioral differences between male and female customers.
+**Purchase Frequency:**
+- Males: Higher transaction count, they buy frequently
+- Females: Lower transaction count, buys less frequently
+- clothing is the highest category purchased on both genders
+  
+
+**Average Spending:**
+on average female spend more than males 
+femle spend more 
+- Males: $59.41 - $60.64 per transaction
+- Females: $58.43 - $60.76 per transaction
+- Difference: <$2 (statistically minimal)
+**location**
 total transactions across 50 US states
 Purchase amounts range from [min] to [max]
 montana had highest purchase with 5784 
