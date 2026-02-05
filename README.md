@@ -1,7 +1,7 @@
 # data-project
 # Shopping Behavior Analysis - Exploratory Data Analysis
 ## Project Overview
-This project performs exploratory data analysis on shopping behavior data to uncover purchasing patterns through demogra
+This project performs exploratory data analysis on shopping behavior data to uncover purchasing patterns 
 
 
 ## Tools & Technologies
@@ -41,12 +41,14 @@ analysis on  purchase patterns reveals distinct behavioral differences between m
 - Female on Average spend more money than males who buy frequently
 - on categorical data clothing is the highest category purchased by both genders
   
+  
 **Average Spending:**
 Which gender spends more per purchase?
-on average female spend more than males 
-femle spend more 
+- on average females spend more than males 
+- Female spend more 
+
 **location**
 total transactions across 50 US states
 Purchase amounts range from [min] to [max]
-montana had highest purchase with 5784 
-rhode island had the least purchases 
+Montana had highest purchase with 5784 
+Rhode Island had the least purchases 
